@@ -5,4 +5,5 @@ All the friends used to know that mtcnn-light needs to set up the width and heig
 
 This project consummate the mtcnn-light version. We only need to initialize the network once, and we can detect faces for different sizes of images.
 
-Opt: adds a minimum face parameter to face detection.
+Opt: 1.Adds a minimum face parameter to face detection.
+     2.The error of mtcnn-light in setting minimum size is solved.
