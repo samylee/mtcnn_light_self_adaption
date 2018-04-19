@@ -1,3 +1,6 @@
+//author: samylee
+//date: 2018.4.19
+
 #ifndef MTCNN_H
 #define MTCNN_H
 #include "network.h"
