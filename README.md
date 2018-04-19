@@ -10,3 +10,5 @@ Opt:
 1.Adds a minimum face parameter to face detection.
 
 2.The error of mtcnn-light in setting minimum size is solved.
+
+3.Blog address:https://blog.csdn.net/samylee/
