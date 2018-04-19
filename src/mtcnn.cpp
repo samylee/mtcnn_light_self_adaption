@@ -1,3 +1,6 @@
+//author: samylee
+//date: 2018.4.19
+
 #include "mtcnn.h"
 
 Pnet::Pnet() {
